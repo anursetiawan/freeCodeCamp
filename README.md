@@ -6,5 +6,6 @@
 2. [Cafe Menu](CafeMenu/)
 3. [CSS Color Markers](CSSColorMarkers/)
 4. [Registration Form](RegistrationForm/)
-5. [Survey Form]('SurveyForm[CertProj]'/) (Certification Project)
-6. ...
+5. [Survey Form](SurveyForm(CertificationProject)/) (Certification Project)
+6. [Rothko Painting](RothkoPainting/)
+7. ...
