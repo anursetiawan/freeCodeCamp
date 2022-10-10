@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(136, 136, 206, 0.7);
+  color: white;
+  font-family: sans-serif;
+}
+
+input, label, select {
+  display: block;
+  padding: 0.25em;
+  width: 100%;
+  margin: 0.1em auto;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  display: unset;
+  vertical-align: middle;
+  width: unset;
+}
+
+form {
+  background-color: rgba(27, 27, 50, 0.8);
+  width: 60vw;
+  margin: 0 auto;
+  max-width: 500px;
+  min-width: 300px;
+  padding: 1.5em;
+}
+
+#title, #description {
+  text-align: center;
+}
+
+#submit {
+  background-color: #37af65;
+  color: white;
+}
