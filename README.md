@@ -8,4 +8,5 @@
 4. [Registration Form](RegistrationForm/)
 5. [Survey Form](SurveyForm(CertificationProject)/) (Certification Project)
 6. [Rothko Painting](RothkoPainting/)
-7. ...
+7. [CSS Flexbox Photo Gallery](CSSFlexboxPhotoGallery/)
+8. ...
